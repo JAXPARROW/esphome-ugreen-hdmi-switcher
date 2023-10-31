@@ -2,9 +2,14 @@
 Control UGREEN HDMI Switcher/Splitter over WiFi using ESPHome. You can still control it with the physical button on top of the device (it also changes the state in Home Assistant device).  
 Demo video: https://youtu.be/F_oZo9kNero  
 
+Other videos
+part 1: https://www.youtube.com/watch?v=MIKmx8QKb9U
+part 2: https://www.youtube.com/watch?v=VdR6OjUl77I
+
 ⚠️ **DISCLAIMER:** Nobody but you is responsible for any damage this mod may cause.  
 
 ![](photos/ugreen-cm217.png)
+
 
 ![](photos/complete.jpg)  
   
